@@ -6,7 +6,7 @@ A full-stack Expense Tracker app to manage and visualize daily expenses.
 - Add, update, and delete expenses
 - Categorize expenses (Food, Transport, Bills, etc.)
 - View expenses in tables and charts (Pie, Bar, Line)
-- Daily and monthly expense stats
+- Daily expense stats
 
 ## Tech Stack
 - Frontend: React, Tailwind CSS, Recharts
