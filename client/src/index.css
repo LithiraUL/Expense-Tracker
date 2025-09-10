@@ -1,0 +1,6 @@
+/* This file must be processed with Tailwind CSS using PostCSS or a compatible build tool. */
+/* If you want to use plain CSS, replace the @tailwind directives with the compiled Tailwind output. */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
